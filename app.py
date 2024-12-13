@@ -5,6 +5,7 @@ import numpy as np
 
 st.write(f"## Disease Prediction Application")
 st.write("Author: Bhawani Shankar")
+st.write("This is the Updated App")
 
 
 # Loaded all the model
